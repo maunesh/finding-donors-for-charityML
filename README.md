@@ -1,6 +1,10 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+This project is completed as a part of Udacity's Machine Learning Engineer Nanodegree program.
+
+Refer to [finding_donors.ipynb](https://github.com/maunesh/finding-donors-for-charityML/blob/master/finding_donors.ipynb) for the code, data exploration and preprocessing, model evaluation, training/prediction pipeline, process of selecting the best model, parameter tuning, feature extraction and selection and final model evaluation. 
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
